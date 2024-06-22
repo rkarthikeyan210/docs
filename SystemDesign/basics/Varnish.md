@@ -115,6 +115,7 @@ sub vcl_deliver {
 Varnish is a powerful tool for improving web application performance through efficient caching of HTTP responses. Its flexibility, high performance, and customizable behavior make it an excellent choice for handling large volumes of web traffic and ensuring fast, reliable content delivery. By reducing the load on backend servers and speeding up response times, Varnish helps create a smoother, faster user experience.
 
 
+### How varnish works with HTTPS/SSL traffic
 
 
 
